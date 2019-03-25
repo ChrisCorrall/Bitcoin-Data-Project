@@ -1,0 +1,8 @@
+"ID","Date","Target","Description","Amount Stolen","Technique","Country","Link"
+"31","30/07/2018","Altex Exchange","Altex Exchange acknowledges that a double-counting bug in Monero (XMR) cryptocurrency did result in a major undisclosed financial loss.","0","Vulnerability in Monero Code","N/A","Link"
+"32","04/08/2018","Livecoin","Livecoin crypto exchange announces that it met considerable losses because crucial bug in Monero code, allowing to manipulate transaction amounts. The total amount of the funds lost is 15108 XMR (more than $1,8 million).","1.800.000","Vulnerability in Monero Code","US","Link"
+"33","15/08/2018","Michael Terpin","Michael Terpin, a bitcoin investor is suing AT&T for $240m after it allegedly ported his phone number to a hacker, allowing the criminal to steal $24m in cryptocurrency.","24.000.000","SIM Swapping","US","Link"
+"34","09/09/2018","C-CEX","Cryptocurrency exchange C-CEX is hacked. The attackers are successfully able to withdraw all Litecoin (LTC) and Dogecoin (DOGE) from company servers.","24.000","Vulnerability","DE","Link"
+"35","10/09/2018","DEOSGames","Betting platform DEOSGames is drained of a significant chunk of its operating funds in a heist that netted one ‘lucky’ punter almost $24,000.","24.000","DEOS Vulnerability","MT","Link"
+"36","14/09/2018","EOSBet","A gambling application that is based on the EOS blockchain has a flaw in its smart contract system exploited. Hackers are able to make off with $200,000 worth of EOS due to the vulnerability.","200.000","Vulnerability","N/A","Link"
+"37","20/09/2018","Zaif","Yet another Japan-based cryptocurrency exchange is hacked, losing a 6.7 billion yen (about $60 million worth of cryptocurrency), including 5,966 bitcoins.","0","Account Hijacking","JP","Link"
